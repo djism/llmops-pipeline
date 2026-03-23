@@ -17,7 +17,7 @@ for d in [DATASET_DIR, EXPERIMENTS_DIR, MODELS_DIR]:
 # ── HuggingFace ───────────────────────────────────────────────────────────────
 HF_TOKEN = os.getenv("HF_TOKEN")
 HF_MODEL_ID = os.getenv("HF_MODEL_ID", "microsoft/Phi-3-mini-4k-instruct")
-HF_FINETUNED_REPO = os.getenv("HF_FINETUNED_REPO", "djism/phi3-medical-qa")
+HF_FINETUNED_REPO = os.getenv("HF_FINETUNED_REPO", "dhananjay9624/phi3-medical-qa")
 
 # ── MLflow ────────────────────────────────────────────────────────────────────
 MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI", str(EXPERIMENTS_DIR))
