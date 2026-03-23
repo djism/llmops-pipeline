@@ -1,0 +1,9 @@
+# Training (run on Colab)
+peft
+bitsandbytes
+trl
+transformers>=4.40.0
+torch
+datasets
+accelerate
+mlflow

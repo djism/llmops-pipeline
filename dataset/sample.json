@@ -1,0 +1,32 @@
+[
+  {
+    "text": "<|user|>\nWhat is the treatment protocol for STEMI?<|end|>\n<|assistant|>\nSTEMI treatment follows a door-to-balloon time goal of <90 minutes. Primary PCI is preferred. If PCI unavailable within 120 minutes, fibrinolysis with tPA or streptokinase is used. Adjunct therapy includes aspirin, P2Y12 inhibitor (ticagrelor or clopidogrel), anticoagulation, and beta-blockers. ICU monitoring is essential post-intervention.<|end|>",
+    "instruction": "What is the treatment protocol for STEMI?",
+    "input": "",
+    "output": "STEMI treatment follows a door-to-balloon time goal of <90 minutes. Primary PCI is preferred. If PCI unavailable within 120 minutes, fibrinolysis with tPA or streptokinase is used. Adjunct therapy includes aspirin, P2Y12 inhibitor (ticagrelor or clopidogrel), anticoagulation, and beta-blockers. ICU monitoring is essential post-intervention."
+  },
+  {
+    "text": "<|user|>\nWhat is the pathophysiology of septic shock?<|end|>\n<|assistant|>\nSeptic shock involves uncontrolled systemic inflammation triggered by infection. Bacterial toxins activate immune cells releasing cytokines (TNF-alpha, IL-1, IL-6), causing vasodilation, increased vascular permeability, decreased systemic vascular resistance, and distributive shock. This leads to end-organ hypoperfusion despite elevated cardiac output.<|end|>",
+    "instruction": "What is the pathophysiology of septic shock?",
+    "input": "",
+    "output": "Septic shock involves uncontrolled systemic inflammation triggered by infection. Bacterial toxins activate immune cells releasing cytokines (TNF-alpha, IL-1, IL-6), causing vasodilation, increased vascular permeability, decreased systemic vascular resistance, and distributive shock. This leads to end-organ hypoperfusion despite elevated cardiac output."
+  },
+  {
+    "text": "<|user|>\nWhat is the first-line treatment for type 2 diabetes mellitus?<|end|>\n<|assistant|>\nThe first-line treatment for type 2 diabetes mellitus is metformin, combined with lifestyle modifications including diet changes and increased physical activity. Metformin is preferred due to its efficacy, low cost, weight neutrality, and favorable cardiovascular profile.<|end|>",
+    "instruction": "What is the first-line treatment for type 2 diabetes mellitus?",
+    "input": "",
+    "output": "The first-line treatment for type 2 diabetes mellitus is metformin, combined with lifestyle modifications including diet changes and increased physical activity. Metformin is preferred due to its efficacy, low cost, weight neutrality, and favorable cardiovascular profile."
+  },
+  {
+    "text": "<|user|>\nWhat are the diagnostic criteria for systemic lupus erythematosus?<|end|>\n<|assistant|>\nSLE diagnosis requires meeting 4 of 11 ACR criteria: malar rash, discoid rash, photosensitivity, oral ulcers, arthritis, serositis, renal disorder (proteinuria >0.5g/day), neurological disorder, hematologic disorder, immunologic disorder (anti-dsDNA, anti-Sm, antiphospholipid antibodies), and positive ANA.<|end|>",
+    "instruction": "What are the diagnostic criteria for systemic lupus erythematosus?",
+    "input": "",
+    "output": "SLE diagnosis requires meeting 4 of 11 ACR criteria: malar rash, discoid rash, photosensitivity, oral ulcers, arthritis, serositis, renal disorder (proteinuria >0.5g/day), neurological disorder, hematologic disorder, immunologic disorder (anti-dsDNA, anti-Sm, antiphospholipid antibodies), and positive ANA."
+  },
+  {
+    "text": "<|user|>\nWhat is the mechanism of action of beta-blockers?<|end|>\n<|assistant|>\nBeta-blockers competitively block catecholamines at beta-adrenergic receptors. Beta-1 blockade reduces heart rate and contractility, lowering cardiac output and blood pressure. This makes them useful in hypertension, angina, heart failure, and arrhythmias.<|end|>",
+    "instruction": "What is the mechanism of action of beta-blockers?",
+    "input": "",
+    "output": "Beta-blockers competitively block catecholamines at beta-adrenergic receptors. Beta-1 blockade reduces heart rate and contractility, lowering cardiac output and blood pressure. This makes them useful in hypertension, angina, heart failure, and arrhythmias."
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "rouge_l": 1.0,
+  "bleu": 1.0,
+  "hallucination_rate": 0.0,
+  "avg_response_length": 37.2,
+  "sample_count": 5,
+  "passed_gate": true,
+  "mock_mode": true,
+  "gate_details": {
+    "rouge_l": {
+      "value": 1.0,
+      "threshold": 0.25,
+      "passed": true
+    },
+    "bleu": {
+      "value": 1.0,
+      "threshold": 0.15,
+      "passed": true
+    },
+    "hallucination": {
+      "value": 0.0,
+      "threshold": 0.1,
+      "passed": true
+    }
+  }
+}

@@ -1,0 +1,18 @@
+# Environment
+.env
+llmops-env/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Large files
+experiments/
+*.bin
+*.safetensors
+dataset/train.json
+
+# Models
+models/
+
+# Mac
+.DS_Store

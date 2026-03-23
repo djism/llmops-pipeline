@@ -1,0 +1,15 @@
+{
+  "passed": false,
+  "metrics": {
+    "rouge_l": 0.1,
+    "bleu": 0.05,
+    "hallucination_rate": 0.25
+  },
+  "thresholds": {
+    "min_rouge_l": 0.25,
+    "min_bleu": 0.15,
+    "max_hallucination_rate": 0.1
+  },
+  "sample_count": 10,
+  "mock_mode": true
+}
